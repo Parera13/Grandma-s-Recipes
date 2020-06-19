@@ -1,4 +1,4 @@
 # Grandma-s-Recipes
 1w project
 
-This is a part of my first team project in the Frontend course with Codecool.
+This is my first team project in the Frontend course with Codecool. I did alone the whole project. 
